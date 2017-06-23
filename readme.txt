@@ -3,4 +3,4 @@ Git  a free software distributed under the GPL
 Git has a mutable index called stage
 Git traks changes of file
 Wow this is a intersting test
-Creating a new branch is quik 
+Creating a new branch is quik & simple 
